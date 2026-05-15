@@ -1,0 +1,54 @@
+Running `(cd /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/mohammedismail/Library/Android/sdk TMPDIR=/var/folders/vw/bx6m1kls6lz51jpczmmjjpch0000gp/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/opt/homebrew/opt/ruby/bin:/opt/homebrew/opt/openjdk@17/bin:/Library/Frameworks/Python.framework/Versions/3.14/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pkg/env/active/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin:/Users/mohammedismail/Documents/FlutterSDK/flutter/bin:/Users/mohammedismail/.pub-cache/bin HOME=/Users/mohammedismail /Users/mohammedismail/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/package_config.json /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/objective_c/9f22e6a04e7d57ddc53af6565b2f38d4/hook.dill --config=/Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/objective_c/9f22e6a04e7d57ddc53af6565b2f38d4/input.json )`.
+INFO: 2026-05-14 19:23:49.783654: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-14 19:23:49.802274: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-14 19:23:49.815069: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 -c /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.c.o
+
+art_api_dl.c.o
+
+INFO: 2026-05-14 19:23:49.815409: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/observer.m.o
+
+put_stream_adapter.m.o
+INFO: 2026-05-14 19:23:49.815306: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.m.o
+
+INFO: 2026-05-14 19:23:49.815593: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/protocol.m.o
+INFO: 2026-05-14 19:23:49.815685: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 -x objective-c -fobjc-arc -c /Users/mohammedismail/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-14 19:23:49.883416: 
+INFO: 2026-05-14 19:23:49.883538: 
+INFO: 2026-05-14 19:23:49.883565: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.c.o
+INFO: 2026-05-14 19:23:49.883870: 
+INFO: 2026-05-14 19:23:49.883885: 
+INFO: 2026-05-14 19:23:49.883895: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-14 19:23:49.897339: 
+INFO: 2026-05-14 19:23:49.897421: 
+INFO: 2026-05-14 19:23:49.897441: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/observer.m.o
+INFO: 2026-05-14 19:23:49.897630: 
+INFO: 2026-05-14 19:23:49.897640: 
+INFO: 2026-05-14 19:23:49.897647: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/protocol.m.o
+
+INFO: 2026-05-14 19:23:49.989623: 
+INFO: 2026-05-14 19:23:49.989660: 
+INFO: 2026-05-14 19:23:49.989669: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.m.o
+
+INFO: 2026-05-14 19:23:49.992930: 
+INFO: 2026-05-14 19:23:49.992960: 
+INFO: 2026-05-14 19:23:49.992968: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/ns_number.m.o
+
+INFO: 2026-05-14 19:23:49.998674: 
+INFO: 2026-05-14 19:23:49.998702: 
+INFO: 2026-05-14 19:23:49.998710: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-14 19:23:50.009775: 
+INFO: 2026-05-14 19:23:50.009802: 
+INFO: 2026-05-14 19:23:50.009811: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-14 19:23:50.010082: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk -target arm64-apple-ios-simulator -mios-version-min=12 /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/include/dart_api_dl.c.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.c.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/input_stream_adapter.m.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c.m.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/observer.m.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/ns_number.m.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/protocol.m.o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/obj/src/objective_c_bindings_generated.m.o -o /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/objective_c.dylib
+
+INFO: 2026-05-14 19:23:50.036714: 
+INFO: 2026-05-14 19:23:50.036763: ld: warning: -undefined dynamic_lookup is deprecated on iOS-simulator
+
+INFO: 2026-05-14 19:23:50.036773: Generated /Users/mohammedismail/Downloads/packages-main/packages/webview_flutter/webview_flutter_wkwebview/example/.dart_tool/hooks_runner/shared/objective_c/build/9f22e6a04e/objective_c.dylib
+
